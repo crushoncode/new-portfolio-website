@@ -4,10 +4,10 @@
 
 * ## Mobile
 
-![Mobile1](/images/Mobile1.png)
-![Mobile2](/images/Mobile2.png)
+![Mobile1](assets/img/Mobile1.png)
+![Mobile2](assets/img/Mobile2.png)
 
 * ## Desktop
 
-![Desktop](/images/Desktop.png)
+![Desktop](assets/img/Desktop.png)
 
